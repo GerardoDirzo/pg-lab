@@ -8,6 +8,10 @@ Lista de publicaciones del laboratorio. Los nombres de los integrantes del equip
 
 ### 2026
 
+- [Macroecological Patterns of Geographical Co- Occurrence in Phyllostomid Bats According to Their Dietary and Climatic Niches](https://doi.org/10.1111/mam.70043)
+  **Gerardo Dirzo-Uribe**, M. Cristina MacSwiney G, Octavio Rojas-Soto, José Antonio Guerrero, **Fabricio Villalobos**
+  *Mammal Review* (2026)
+
 - [Phylogenetic Patterns in Hunting and Extinction Risk in Primates](https://doi.org/10.1111/acv.70068)  
   **Luis D. Verde Arregoitia**, **Carmen Galán-Acedo**, K. A.-I. Nekaris, P. A. Garber, M. F. Hansen, J. C. Bicca-Marques, M. S. Svensson, V. Nijman, S. Shanee, A. Chaudhary, A. Estrada, R. Dobrovolski, S. F. Gouveia, **Fabricio Villalobos**  
   *Animal Conservation* (2026)
