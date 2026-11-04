@@ -8,7 +8,7 @@ Lab publications list. Team members' names are highlighted in **bold**.
 
 ### 2026
 
-- [Macroecological Patterns of Geographical Co- Occurrence in Phyllostomid Bats According to Their Dietary and Climatic Niches](https://doi.org/10.1111/mam.70043)
+- [Macroecological Patterns of Geographical Co-Occurrence in Phyllostomid Bats According to Their Dietary and Climatic Niches](https://doi.org/10.1111/mam.70043)
   **Gerardo Dirzo-Uribe**, M. Cristina MacSwiney G, Octavio Rojas-Soto, José Antonio Guerrero, **Fabricio Villalobos**
   *Mammal Review* (2026)
 
